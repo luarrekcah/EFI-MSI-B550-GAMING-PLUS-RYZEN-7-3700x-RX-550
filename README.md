@@ -1,4 +1,4 @@
-# Hackintosh: MSI B550 Gaming Plus / Ryzen 3 3200G / RX 550 4GB
+# Hackintosh: MSI B550 Gaming Plus / Ryzen 7 3700x / RX 550 4GB
 
 ![MacOS Screenshot](print-osx.png)
 
@@ -13,7 +13,7 @@ Benchmarks: [here](https://browser.geekbench.com/user/539709)
 | Component          | Model                          | Status        |
 |--------------------|--------------------------------|---------------|
 | **Motherboard**    | MSI B550 Gaming Plus          | Fully Working |
-| **CPU**            | AMD Ryzen 3 3200G             | Fully Working |
+| **CPU**            | AMD Ryzen 7 3700x             | Fully Working |
 | **GPU**            | AMD RX 550 4GB                | Works Great |
 | **RAM**            | 16gb DDR4 3,2ghz              | Fully Working |
 | **Storage**        | 250gb NVMe - 250gb sata - 2tb hdd | Fully Working |
