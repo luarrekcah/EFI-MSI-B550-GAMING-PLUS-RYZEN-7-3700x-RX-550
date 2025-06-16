@@ -34,7 +34,7 @@ Benchmarks: [here](https://browser.geekbench.com/user/539709)
 ## Software Setup
 
 - **Bootloader**: OpenCore 1.0.4
-- **Operating System**: macOS Sequoia 15.3
+- **Operating System**: macOS Sequoia 15.5
 
 ---
 
