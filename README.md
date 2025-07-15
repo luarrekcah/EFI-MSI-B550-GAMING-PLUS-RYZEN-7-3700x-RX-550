@@ -1,4 +1,4 @@
-# Hackintosh: MSI B550 Gaming Plus / Ryzen 7 3700x / RX 550 4GB
+# Hackintosh: MSI B550 Gaming Plus / Ryzen 7 3700x / RX 6600 8GB
 
 ![MacOS Screenshot](print-osx.png)
 
@@ -14,7 +14,7 @@ Benchmarks: [here](https://browser.geekbench.com/user/539709)
 |--------------------|--------------------------------|---------------|
 | **Motherboard**    | MSI B550 Gaming Plus          | Fully Working |
 | **CPU**            | AMD Ryzen 7 3700x             | Fully Working |
-| **GPU**            | AMD RX 550 4GB                | Works Great |
+| **GPU**            | AMD RX 6600 8Gb                | Works Great |
 | **RAM**            | 16gb DDR4 3,2ghz              | Fully Working |
 | **Storage**        | 250gb NVMe - 250gb sata - 2tb hdd | Fully Working |
 | **Audio**          | Realtek ALC Audio (onboard)   | Fully Working |
@@ -24,7 +24,7 @@ Benchmarks: [here](https://browser.geekbench.com/user/539709)
 
 ## Compatibility Notes
 
-- **Graphics**: The AMD RX 550 isnot native polaris, i did a fakeid and it works as well.
+- **Graphics**: Works great but its perceptive a low performance compared to windows.
 - **Audio**: Realtek onboard audio is fully functional.
 - **Networking**: AirDrop, Wi-Fi, Bluetooth and Ethernet fully functional.
 - **Emulation**: No supported for AMD, but can use XCode Simulator (tested iphone 16).
@@ -33,7 +33,7 @@ Benchmarks: [here](https://browser.geekbench.com/user/539709)
 
 ## Software Setup
 
-- **Bootloader**: OpenCore 1.0.4
+- **Bootloader**: OpenCore 1.0.5
 - **Operating System**: macOS Sequoia 15.5
 
 ---
